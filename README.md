@@ -1,6 +1,6 @@
-# Data Structures and Algorithms (DSA-I)
+# Data Structures and Algorithms 1(DSA-1)
 
-This repository contains my C++ implementations for the Data Structures and Algorithms I (DSA-I) course assignments. Each directory focuses on a fundamental data structure or algorithmic paradigm.
+This repository contains my C++ implementations for the Data Structures and Algorithms 1 (DSA-1) course assignments. Each directory focuses on a fundamental data structure or algorithmic paradigm.
 
 ---
 
