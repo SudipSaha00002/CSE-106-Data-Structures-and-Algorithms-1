@@ -12,11 +12,11 @@ Below is a breakdown of the topics covered in each assignment:
    - Implementations of array-based lists (`arr.cpp`) and linked lists (`LL.cpp`).
 2. **[Assignment-2 (Stack)](./Assignment-2%20(Stack))**
    - Stack-based data structures and their applications (e.g., expression evaluation, matching parentheses).
-3. **[assignment-3 (Queue)](./assignment-3%20(Queue))**
+3. **[Assignment-3 (Queue)](./Assignment-3%20(Queue))**
    - Queue data structures and applications.
-4. **[assignment-4 (Binary Search Tree)](./assignment-4%20(Binary%20Search%20Tree))**
+4. **[Assignment-4 (Binary Search Tree)](./Assignment-4%20(Binary%20Search%20Tree))**
    - Binary Search Tree (BST) operations including insertion, deletion, and traversals.
-5. **[assignment-5 (Priority Queue)](./assignment-5%20(Priority%20Queue))**
+5. **[Assignment-5 (Priority Queue)](./Assignment-5%20(Priority%20Queue))**
    - Binary Heap and Priority Queue implementations.
 6. **[Assignment-6 (Graph)](./Assignment-6%20(Graph))**
    - Graph representations (adjacency matrix/list) and traversal algorithms (BFS, DFS).
